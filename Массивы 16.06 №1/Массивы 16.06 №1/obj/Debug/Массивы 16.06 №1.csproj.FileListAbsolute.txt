@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\bin\Debug\Массивы 16.06 №1.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\bin\Debug\Массивы 16.06 №1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\bin\Debug\Массивы 16.06 №1.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\obj\Debug\Массивы 16.06 №1.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\obj\Debug\Массивы_16._06__1.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\obj\Debug\Массивы_16._06__1.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\obj\Debug\Массивы 16.06 №1.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\obj\Debug\Массивы 16.06 №1.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\obj\Debug\Массивы 16.06 №1.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Arrays-16.06-1\Массивы 16.06 №1\Массивы 16.06 №1\obj\Debug\Массивы 16.06 №1.pdb
